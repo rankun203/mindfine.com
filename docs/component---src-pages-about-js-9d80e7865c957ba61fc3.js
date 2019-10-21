@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{212:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),i=t(75),c=t(210),r=t(209);n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"关于 mindfine"}),l.a.createElement("h1",null,"关于 mindfine"),l.a.createElement("p",null,"这里空空如也"),l.a.createElement(i.Link,{to:"/"},"返回主页"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-9d80e7865c957ba61fc3.js.map

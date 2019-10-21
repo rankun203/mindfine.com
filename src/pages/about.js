@@ -6,10 +6,10 @@ import SEO from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <SEO title="关于 mindfine" />
+    <h1>关于 mindfine</h1>
+    <p>这里空空如也</p>
+    <Link to="/">返回主页</Link>
   </Layout>
 )
 
