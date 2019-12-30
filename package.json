@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build && mv public docs && echo mindfine.com > docs/CNAME",
+    "build": "gatsby build && rm -rf docs && mv public docs && echo mindfine.com > docs/CNAME",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
