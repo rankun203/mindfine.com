@@ -36,8 +36,12 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          <p>©<a href="/">mindfine.com</a> 2012-{new Date().getFullYear()}</p> 
-          <p>蜀ICP备19027915号-1</p>
+          <p>
+            ©<a href="/">mindfine.com</a> 2012-{new Date().getFullYear()}
+          </p>
+          <p>
+            <a href="https://beian.miit.gov.cn">蜀ICP备19027915号-1</a>
+          </p>
         </footer>
       </div>
     </>
